@@ -1,0 +1,4 @@
+{
+  "configPath": "../../dist/cf_ai_chatbot_agent/wrangler.json",
+  "auxiliaryWorkers": []
+}
